@@ -1,1 +1,1 @@
-FROM fangliding:redd:latest
+FROM fangliding/redd:latest
